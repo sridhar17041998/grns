@@ -1,0 +1,24 @@
+git config:
+Usage: git config –global user.name “[name]”  
+
+Usage: git config –global user.email “[email address]”  
+
+git init:
+Usage: git init [repository name]
+
+
+git add:
+git add *
+
+git clone:
+Usage: git clone [url]  
+git commit:
+Usage: git commit -m “[ Type in the commit message]” 
+git status:
+Usage: git status
+git checkout:
+Usage: git checkout [branch name]
+git remote:
+Usage: git remote add [variable name] [Remote Server Link] 
+git push:
+Usage: git push [variable name] master 
